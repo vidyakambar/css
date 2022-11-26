@@ -1,0 +1,43 @@
+h1{
+	color: red;
+}
+	h2{
+		color: crimson;
+		font-style: italic;
+	}
+	li{
+	        color: maroon;
+	        line-height: 30px;
+	
+	}
+	.style{
+
+		text-decoration: line-through;
+	}
+	.bgcolor{
+
+		background-color: yellow;
+	}
+	.itali{
+		text-decoration:underline;
+		font-style: italic;
+	}
+	.space{
+
+		letter-spacing:3px;
+	}
+	.color{
+		background-color: yellow;
+		font-weight: bold;
+	}
+
+	p{
+		color:darkgoldenrod;
+	}
+	a{
+		font-style: italic;
+		background-color: yellow;
+		color:red;
+	}
+
+
